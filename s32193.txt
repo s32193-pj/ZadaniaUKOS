@@ -1,0 +1,19 @@
+1: Wstep do konsoli zadania
+
+1. Uruchomilem terminale:
+	cmd - windowsa
+	szuflandie - przez putty
+	git bash
+2. uzylem komendy ls -la, ls -l oraz dir zeby zobaczyc co jest w katalogu w ktorym jestem
+3. uzylem komendy pwd na szuflandii zeby sprawdzic gdzie jestem
+4. uzylem sciezki wzglednej cd ../PPGR_LAB zeby cofnac sie o folder i przejsc do innego folderu
+	uzylem komendy ls ../../ aby sprawdzic gdzie znajduje sie folder do ktorego chce przejsc
+	zrobilem kilka dodatkowych katalogow, zmienilem folder sciezka wzgledna ../../PPGR_LAB aby cofnac sie 2 foldery i wejsc w PPGR_LAB
+5. uzylem komendy pwd aby sprawdzic gdzie sie znajduje
+6. uzylem komendy ls -la aby wyswietlic zawartosc
+7. uzylem komendy ls -la ../ aby wyswietlic zawartosc innego katalogu
+10. cd ././././././ przeniesie mnie do tego samego folderu w ktorym sie znajduje (./ - oznacza obecny katalog), dodanie lub odjecie "./" nic nie zmieni
+11. uzylem komendy cd /home/PJWSTK/s32193 aby przejsc do swojej glownego katalogu
+12. cd /root zglosi brak uprawnien zeby przejsc do katalogu root, ponadto nie da sie rowniez wyswietlic zawartosci tego folderu
+13. ctrl+alt+f3 przelacza miedzy konsolami, ctrl+alt+f1 przelaczy na konsole oryginalna, a ctrl+alt+f2 przelaczy mnie rowniez na inna konsole
+14 alt+f1,2,3,4,5,6 rowniez przelaczy miedzy konsolami
