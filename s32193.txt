@@ -28,3 +28,22 @@
 6. usunalem pliki za pomoca rm zajecia2.txt inny.txt nowy.txt
 7. usunalem katalog2 i 3 za pomoca rm -r katalog2
 7. usunalem klamka oraz zawartosc za pomoca rm -r klamka
+
+////////////////////
+
+1. wszedlem w gitbash 
+2. ustawilem uzytkownika oraz mail git config --global user.name (user.mail)
+3. zainicalizowalem folder git init
+4. sprawdzilem status git status
+5. git add --all
+6. git commit -m "wiadomosc"
+7,0. uzylem podpowiedzi komend w githubie 
+7,1. git remote add origin https://github.com/s32193-pj/mleko.git
+8.git branch -M main
+9.git push -u origin main
+10. zrobilem update pliku
+	git status
+	git add --all
+	git commit -m "update 1"
+	git push
+	git status
